@@ -1,4 +1,4 @@
-# Java Distributed Job Processor
+# Java Distributed Compute Engine
 
 A distributed systems project implementing a fault-tolerant Java code execution cluster, developed as part of Introduction to Distributed Systems coursework.
 
